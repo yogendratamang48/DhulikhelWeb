@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8C76062E-E9A3-4E56-ADA4-D22903ED161C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5CFB35C7-3443-44B7-A0F9-B8D0C0724E86}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "DhulikhelWeb", "src\DhulikhelWeb\DhulikhelWeb.xproj", "{688D6693-2321-4234-B900-9B9F7D0050DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{688D6693-2321-4234-B900-9B9F7D0050DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688D6693-2321-4234-B900-9B9F7D0050DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688D6693-2321-4234-B900-9B9F7D0050DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688D6693-2321-4234-B900-9B9F7D0050DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{688D6693-2321-4234-B900-9B9F7D0050DB} = {8C76062E-E9A3-4E56-ADA4-D22903ED161C}
+	EndGlobalSection
+EndGlobal
